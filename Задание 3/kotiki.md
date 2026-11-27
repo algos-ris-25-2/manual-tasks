@@ -132,7 +132,10 @@ $$
 $$
 
 $$
-\begin{vmatrix}3 & -1 \\ -2 & 3\end{vmatrix}\ =\ 9\ -2=7
+\begin{vmatrix}
+3 & -1 \\ 
+-2 & 3
+\end{vmatrix}\ =\ 9 - 2=7
 $$
 
 Поэтому
@@ -148,11 +151,16 @@ $$
 А дальше мы подставляем значения для того чтобы составить систему уравнений
 
 $$
-\begin{cases}3\ =\ {\mathrm{A}}_{1}\times 1^{1}\ +{\mathrm{A}}_{2}\times 2^{1} \\ 7\ =\ {\mathrm{A}}_{1}\times 1^{2}\ +{\mathrm{A}}_{2}\times 2^{2}\end{cases}
+\begin{cases}
+3\ =\ {\mathrm{A}}_{1}\times 1^{1}\ +
+{\mathrm{A}}_{2}\times 2^{1} \\
+7\ =\ {\mathrm{A}}_{1}\times 1^{2}\ +
+{\mathrm{A}}_{2}\times 2^{2}
+\end{cases}
 $$
 
 $$
--4\ =2{\mathrm{A}}_{2}\ 
+4\ =2{\mathrm{A}}_{2}\ 
 $$
 
 $$
@@ -190,7 +198,11 @@ $$
 Считаем результат обычным способом
 
 $$
-\begin{bmatrix}3 & -1 & 0 \\ -2 & 3 & -1 \\ 0 & -2 & 3\end{bmatrix}=27-6-6=15
+\begin{vmatrix}
+3 & -1 & 0 \\
+-2 & 3 & -1 \\
+0 & -2 & 3
+\end{vmatrix}=27-6-6=15
 $$
 
 Результат совпал с ожидаемым
