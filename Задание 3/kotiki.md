@@ -7,12 +7,12 @@
 $$
 \left(
 \begin{array}{cccc}
-3  & -1 &  0 &\ldots & 0 & 0\\
--2 &  3 & -1 &\ldots & 0 & 0\\
-0  & -2 &  3 &\ldots & 0 & 0\\
+3& -1& 0&\ldots& 0& 0\\
+-2& 3& -1&\ldots& 0& 0\\
+0& -2& 3 &\ldots&0 & 0\\
 \vdots& \vdots& \vdots &\ddots & \vdots & \vdots\\
-0  & 0& 0 &\ldots & 3& -1\\
-0  & 0& 0 &\ldots & -2 &3\\
+0& 0& 0 &\ldots& 3& -1\\
+0& 0& 0 &\ldots& -2& 3\\
 \end{array}
 \right)
 $$
