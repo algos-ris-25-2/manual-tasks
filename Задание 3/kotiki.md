@@ -148,7 +148,7 @@ $$
 А дальше мы подставляем значения для того чтобы составить систему уравнений
 
 $$
-\left\{\begin{gathered}3\ =\ {\mathrm{A}}_{1}\times 1^{1}\ +{\mathrm{A}}_{2}\times 2^{1} \\ 7\ =\ {\mathrm{A}}_{1}\times 1^{2}\ +{\mathrm{A}}_{2}\times 2^{2}\end{gathered}\right.
+\begin{cases}3\ =\ {\mathrm{A}}_{1}\times 1^{1}\ +{\mathrm{A}}_{2}\times 2^{1} \\ 7\ =\ {\mathrm{A}}_{1}\times 1^{2}\ +{\mathrm{A}}_{2}\times 2^{2}\end{cases}
 $$
 
 $$
