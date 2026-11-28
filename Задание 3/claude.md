@@ -1,6 +1,13 @@
 Вариант 4:
 $$
-A = \left( \begin{array}{cccccc} 3 & 1 & 0 & \ldots & 0 & 0 \\\\ -4 & 3 & 1 & \ldots & 0 & 0\\ 0 & -4 & 3 & \ldots & 0 & 0 \\\\ \vdots& \vdots & \vdots &\ddots & \vdots & \vdots \\\\ 0 & 0 & 0 & \ldots & 3 & 1 \\\\ 0 & 0 & 0 & \ldots & -4 & 3 \end{array} \right)
+A = \begin{pmatrix}
+3 & 1 & 0 & \ldots & 0 & 0 \\ 
+-4 & 3 & 1 & \ldots & 0 & 0\\ 
+0 & -4 & 3 & \ldots & 0 & 0 \\ 
+\vdots& \vdots & \vdots &\ddots & \vdots & \vdots \\
+0 & 0 & 0 & \ldots & 3 & 1 \\
+0 & 0 & 0 & \ldots & -4 & 3 
+\end{pmatrix}
 $$
 Порядок матрицы n = 5.
 ## 1. Вывод рекуррентного соотношения для предложенной матрицы
